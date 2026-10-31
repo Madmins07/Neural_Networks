@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/jupyter-notebook-B45CFF?style=flat-square&labelColor=07080D&logo=jupyter&logoColor=EEF1ED" alt="jupyter notebook"/>
-  <img src="https://img.shields.io/github/last-commit/Madmins07/Neural_Networks?style=flat-square&labelColor=07080D&color=6F7693&label=updated" alt="last-commit"/>
-  <img src="https://img.shields.io/github/license/Madmins07/Neural_Networks?style=flat-square&labelColor=07080D&color=1C2032" alt="license"/>
+  <img src="https://img.shields.io/badge/jupyter-notebook-FF7A1A?style=flat-square&labelColor=0A0B0E&logo=jupyter&logoColor=EEF1ED" alt="jupyter notebook"/>
+  <img src="https://img.shields.io/github/last-commit/Madmins07/Neural_Networks?style=flat-square&labelColor=0A0B0E&color=6A7280&label=updated" alt="last-commit"/>
+  <img src="https://img.shields.io/github/license/Madmins07/Neural_Networks?style=flat-square&labelColor=0A0B0E&color=2A2F39" alt="license"/>
 </div>
 
 ## about
